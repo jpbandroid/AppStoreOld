@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "AppStoreRemastered (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "AppStoreRemastered (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
